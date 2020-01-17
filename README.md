@@ -4,7 +4,7 @@ Custom wave animated progress bars with Javascript + CSS3.
 # How To Use
 * Include Minified CSS and Javascript files to your project
 * Copy the div clause to your project
-* Set custom attributes on your demand
+* Set custom attributes (Speed, Background, Color, Border Width, Border Color) on your demand
 * Enjoy!!
 
 ![alt text](http://maksof.com/heart/screenshot.png)
