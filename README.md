@@ -1,12 +1,9 @@
 # Animated Progress Bars
-Custom Wave animated progress bars with Javascript + CSS3
+Custom wave animated progress bars with Javascript + CSS3
  
+[![alt text](http://maksof.com/heart/screenshot.png)]
 ### Example
-[https://cesarnog.github.io/waves-animation/](https://cesarnog.github.io/waves-animation/)
+[http://maksof.com/heart/](http://maksof.com/heart/)
 
 ### License
-Copyright (c) <script>new Date().getFullYear();</script> MAKSOF (http://www.maksof.com) 
-
-Licensed under the MIT license.
-
- - http://www.opensource.org/licenses/mit-license.php
+Copyright (c) 2020 MAKSOF (http://www.maksof.com) 
